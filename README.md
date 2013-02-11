@@ -1,0 +1,1 @@
+A collection of js & css easing functions
