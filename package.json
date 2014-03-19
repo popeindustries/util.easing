@@ -2,12 +2,9 @@
 	"name": "util.easing",
 	"description": "A collection of js & css easing functions",
 	"version": "0.0.2",
-	"author": "Thomas Lein <thomaslein@gmail.com>",
+	"author": "Thomas Lein <thomaslein@gmail.com",
 	"dependencies": {
 	},
 	"main": "index.js",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/thomaslein/util.easing.git"
-	}
+	"repository": "https://github.com/thomaslein/util.easing.git",
 }
