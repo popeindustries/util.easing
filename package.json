@@ -6,5 +6,5 @@
 	"dependencies": {
 	},
 	"main": "index.js",
-	"repository": "git://github.com/thomaslein/util.easing.git",
+	"repository": "git://github.com/thomaslein/util.easing.git"
 }
